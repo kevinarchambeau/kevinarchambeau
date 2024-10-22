@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+I'm a senior backend dev with a wide range of experience across several languages and technologies.
+
+Including:
+* Scala
+* Python
+* Go
+* Ruby
+* Kotlin
+* Java
+* JS/TS
+* Kafka
+* SQL & NoSQL
+* Docker/Containers
+* AWS & Onprem (VMs & OpenShift)
+
+
+I'm open to new opportunities.
+
 <!--
 **kevinarchambeau/kevinarchambeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
