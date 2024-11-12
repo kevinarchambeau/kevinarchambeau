@@ -15,9 +15,6 @@ Including:
 * Docker/Containers
 * AWS & Onprem (VMs & OpenShift)
 
-
-I'm open to new opportunities.
-
 <!--
 **kevinarchambeau/kevinarchambeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
